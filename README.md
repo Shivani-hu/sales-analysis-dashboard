@@ -54,5 +54,6 @@ This project demonstrates how Power BI can transform raw data into actionable in
 ---
 
 ## 📷 Dashboard Preview
-
-![Dashboard1 Screenshot](images/dashboard-overview.png)
+![Dashboard Overview](dashboard1.PNG)
+![Sales Analysis](dashboard2.PNG)
+![Category Analysis](dashboard3.PNG)

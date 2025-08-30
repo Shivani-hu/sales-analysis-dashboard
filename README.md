@@ -14,7 +14,7 @@ This project demonstrates how Power BI can transform raw data into actionable in
 |-----------|-------------|
 | `_sales_analysis_report_dashboard.pbit` | Power BI Dashboard Template |
 | `Global_Superstore_Original_ay26v.xlsx` | Raw dataset used for the dashboard |
-| `/images/` *(optional)* | Screenshots of dashboard visuals |
+| Screenshots of dashboard visuals |
 
 ---
 
